@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/The killer mom.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
